@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400);
+ :root {
+    --main-color: #027581;
+    --color-dark: #1D2231;
+    --text-grey: #8390A2;
+}
+
+.navigation {
+    width: 100%;
+    /* background-color: black; */
+}
+
+img.imgg {
+    width: 25px;
+    border-radius: 50px;
+    float: left;
+}
+
+.logout {
+    font-size: .8em;
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    right: -18px;
+    bottom: -4px;
+    overflow: hidden;
+    letter-spacing: 3px;
+    opacity: 0;
+    transition: opacity .35ms;
+    -webkit-transition: opacity .35ms;
+}
+
+.button {
+    text-decoration: none;
+    float: right;
+    padding: 12px;
+    margin: 15px;
+    margin-right: 49%;
+    width: 25px;
+    background-color: var(--main-color);
+    transition: width .35ms;
+    -webkit-transition: width .35ms;
+    overflow-wrap: normal;
+}
+
+.button:hover {
+    width: 100px;
+}
+
+.button:hover .logout {
+    opacity: .9;
+}
+
+.button {
+    text-decoration: none;
+}
