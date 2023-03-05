@@ -1,8 +1,5 @@
 # eCommerceDashboard
-<<<<<<< HEAD
 This project is a PHP-based solution for an eCommerce dashboard that provides real-time insights into sales, inventory, and customer behavior.
-=======
->>>>>>> d785256090c3516d12f0f065f55e8eb193b05099
 
 Installation
 Clone the repository.
@@ -26,8 +23,4 @@ Contributing
 Contributions to the project are welcome. If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.
 
 License
-<<<<<<< HEAD
 This project is licensed under the MIT License. See the LICENSE file for more information.
-=======
-This project is licensed under the MIT License. See the LICENSE file for more information.
->>>>>>> d785256090c3516d12f0f065f55e8eb193b05099
